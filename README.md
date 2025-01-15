@@ -100,3 +100,11 @@ To contribute, please follow these steps:
 4. Commit your changes (git commit -am 'Add new feature').
 5. Push to your forked repository (git push origin feature-branch).
 6. Open a pull request for review.
+
+## Resources
+
+To help you along the way, here are some useful Java resources:
+
+- [Official Java Documentation](https://docs.oracle.com/en/java/)
+- [Java Programming Tutorial on W3Schools](https://www.w3schools.com/java/)
+- [Java Programming Basics - YouTube Playlist](https://www.youtube.com/watch?v=A74TOX803D0&ab_channel=freeCodeCamp.org)
