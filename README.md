@@ -50,7 +50,7 @@ The primary purpose of this repository is to serve as a learning resource for an
 
 ## Learning Path
 
-The repository is organized into folders by topics, starting from the basics and progressing to more advanced concepts. Here’s a suggested learning path:
+The repository contains topics from the basics to more advanced concepts. Here’s a suggested learning path:
 
 1. **Basic Syntax and Data Types**  
    - Simple examples of Java syntax, variables, data types, and basic input/output.
