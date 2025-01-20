@@ -27,12 +27,31 @@ public class LinkedList {
             temp = temp.next;
         }
     }
+    public void delete(int data) {
+        if (head == null) {
+            return;
+        }
+        if (head.data == data) {
+            head = head.next;
+            return;
+        }
+        Node temp = head;
+        while (temp.next != null) {
+            if (temp.next.data == data) {
+                temp.next = temp.next.next;
+                return;
+            }
+            temp = temp.next;
+        }
+    }
+
     public static void main(String[] args) {
         LinkedList list = new LinkedList();
         list.insert(1);
         list.insert(2);
         list.insert(3);
         list.insert(4);
+        list.delete(2);
         list.printList();
     }
 }
