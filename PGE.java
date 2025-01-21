@@ -22,6 +22,7 @@ public class PGE {
             }
             st.push(arr[i]);
         }
+        System.out.println("Previous Greater Element: ");
         for(int i=0;i<n;i++){
             System.out.print(ans[i]+" ");
         }
