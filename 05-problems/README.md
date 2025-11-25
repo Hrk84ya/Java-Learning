@@ -1,6 +1,9 @@
 # Coding Problems
 
 ## Files
+- TwoSum.java - Find two numbers that sum to target
+- ValidParentheses.java - Check balanced parentheses
+- FibonacciSequence.java - Multiple Fibonacci approaches
 - EvenOddSeg.java - Even-odd segregation
 - NGE.java - Next Greater Element
 - NSE.java - Next Smaller Element
@@ -10,5 +13,5 @@
 
 ## Run
 ```bash
-javac NGE.java && java NGE
+javac TwoSum.java && java TwoSum
 ```
